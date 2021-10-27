@@ -1,6 +1,10 @@
 # Rapidev-toolbox-cfg-tool
 
 AUTHOR: ntolb / lifeModder19135
+drwr-arc-archiver-tools   drwr-config-saw-tools       drwr--logging-chain--tools  drwr-table-saw-tools       unprocessed-additions
+drwr-ci-pipewrench-tools  drwr-connect-collect-tools  drwr-pac-pack-tools         drwr-usrspace-tools
+drwr-code-comp-tools      drwr--containster-tools     drwr--projectifier-tools    README.md
+drwr-codemode-tools       drwr-enVARment-tools        drwr--SUPERuser-tools       support-drwr-utility-belt
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
