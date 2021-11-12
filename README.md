@@ -1,11 +1,26 @@
 # Rapidev-toolbox-cfg-tool
 
 <strong>AUTHOR:</strong> <b>ntolb / lifeModder19135</b>
-`drwr-arc-archiver-tools`   `drwr-config-saw-tools`       `drwr--logging-chain--tools`  `drwr-table-saw-tools`       <b>unprocessed-additions
-`drwr-ci-pipewrench-tools`  `drwr-connect-collect-tools`  `drwr-pac-pack-tools`         `drwr-usrspace-tools`
-`drwr-code-comp-tools`      `drwr--containster-tools`     `drwr--projectifier-tools`    README.md
-`drwr-codemode-tools`       `drwr-enVARment-tools`        `drwr--SUPERuser-tools`       support-drwr-utility-belt
-
+      
+      README.md
+  `drwr-arc-archiver-tools`   
+  `drwr-config-saw-tools`       
+  `drwr--logging-chain--tools`  
+  `drwr-table-saw-tools`       
+  `drwr-ci-pipewrench-tools`  
+  `drwr-connect-collect-tools`  
+  `drwr-pac-pack-tools`         
+  `drwr-usrspace-tools`
+  `drwr-code-comp-tools`      
+  `drwr--containster-tools`     
+  `drwr--projectifier-tools`    
+  `drwr-codemode-tools`       
+  `drwr-enVARment-tools`        
+  `drwr--SUPERuser-tools` 
+  `support-drwr-utility-belt`
+  <b>unprocessed-additions</b>
+  
+  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
